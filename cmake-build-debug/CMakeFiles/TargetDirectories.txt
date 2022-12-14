@@ -1,3 +1,0 @@
-/home/hardes1/github/CLionProjects/HW_AVS4/cmake-build-debug/CMakeFiles/HW_AVS4.dir
-/home/hardes1/github/CLionProjects/HW_AVS4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/hardes1/github/CLionProjects/HW_AVS4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
